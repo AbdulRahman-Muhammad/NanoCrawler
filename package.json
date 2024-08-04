@@ -1,0 +1,12 @@
+{
+  "name": "nano-crawler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.5",
+    "@tensorflow/tfjs-node": "^3.6.0",
+    "@huggingface/transformers": "^4.6.1"
+  }
+}
